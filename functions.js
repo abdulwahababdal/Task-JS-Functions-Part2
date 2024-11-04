@@ -3,7 +3,7 @@
  * - receives a name
  * - logs "Hello <name>"
  *
- * e.g.
+ * e.g
  * greet("Hamza") logs "Hello Hamza"
  */
 function greet(name) {
